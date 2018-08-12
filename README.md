@@ -1,5 +1,3 @@
-README.md
-
 # 2018 Fantasy Football Season
 
 A Set of Jupyter Notebooks for the 2018 Fantasy Football season
