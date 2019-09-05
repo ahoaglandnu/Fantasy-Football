@@ -8,17 +8,17 @@ Gaussian Mixture Model clustering QBs, RBs, WRs, and TEs according to the ending
 
 [Source: pro-football-reference.com](https://pro-football-reference.com)
 
-![2018](https://github.com/ahoaglandnu/Fantasy-Football/2019/images/2018rbbytier.png "2018")
+![2018](https://raw.githubusercontent.com/ahoaglandnu/Fantasy-Football/master/2019/images/2018rbbytier.png "2018")
 
 Gaussian Mixture Model clustering QBs, RBs, WRs, and TEs according to expert consensus rankings.  
 
 [Source: fantasypros.com](https://fantasypros.com)
 
-![2019](https://github.com/ahoaglandnu/Fantasy-Football/2019/images/2019rbbytier.png "2019")
+![2019](https://raw.githubusercontent.com/ahoaglandnu/Fantasy-Football/master/2019/images/2019rbbytier.png "2019")
 
 Ranges of fantasy points for each tier and position are calculated from the 2018 season and applied to the respective tiers and positions for the 2019 roster. This gives us a range of minimum, average, and maximum fantasy points.
 
-![table](https://github.com/ahoaglandnu/Fantasy-Football/2019/images/rbtable.png "table")
+![table](https://raw.githubusercontent.com/ahoaglandnu/Fantasy-Football/master/2019/images/rbtable.png "table")
 
 ### Week 4
 
