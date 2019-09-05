@@ -1,6 +1,6 @@
-# 2018 Fantasy Football Season
+# 2019 Fantasy Football Season
 
-A Set of Jupyter Notebooks for the 2019 Fantasy Football season
+Jupyter Notebooks generating fantasty point range projectionsthe 2019 Fantasy Football season
 
 ### Week 1 - Week 3
 
